@@ -1,4 +1,4 @@
-# Probabilidad y Estadística (Computación) — Primer cuatrimestre de 2015
+# Probabilidades y Estadística C — Primer cuatrimestre de 2015
 
 ## Prácticas
 
